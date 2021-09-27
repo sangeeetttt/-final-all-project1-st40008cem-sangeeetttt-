@@ -21,3 +21,12 @@ This is the Home page of the program.
 ![image](https://user-images.githubusercontent.com/82662886/134921785-411850de-74e1-42f1-bf27-4a6d3fc514a5.png)
 
 And these are the additional menus that this application has to offer.
+
+# Features
+1. Secure Login page.
+2. Does all the basic tasks flawlessly.
+3. Offers a search button for searching specific product in Inventory.
+4. Product Name, price and quantity can added.
+5. Very easy to use GUI.
+6. Can also calculate the total sale value of the products.
+7. Has minor features like delete button, refresh button, logout and exit button.
