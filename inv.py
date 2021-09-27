@@ -24,4 +24,21 @@ PRODUCT_PRICE = IntVar()
 PRODUCT_QTY = IntVar()
 SEARCH = StringVar()
 
+# EXIT
+def Exit():
+    result = tkMessageBox.askquestion('GARUDA Inventory Management System', 'Are you sure you want to exit?',icon="warning")
+    if result == 'yes':
+        root.destroy()
+        exit()
+
+
+def Exit2():
+    result = tkMessageBox.askquestion('GARUDA Inventory Management System', 'Are you sure you want to exit?',icon="warning")
+    if result == 'yes':
+        Home.destroy()
+        exit()
+
+
+
+
 root.main()
