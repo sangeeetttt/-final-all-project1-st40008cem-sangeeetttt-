@@ -1,6 +1,23 @@
 # INVENTORY MANAGEMENT SYSTEM by GARUDA
 This is the Inventory Management System software that keeps the record of sales and product which is made by Sangeet Shrestha,Ayush Kandel and Sonim Shrestha, collectively known as GARUDA. The IMS is capable of storing data of products and can also keep up with large quantity of products. 
 
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#Design-and-Aesthetics">Design and Aesthetics</a>
+    </li>
+ 
+    <li><a href="#Features">Features</a></li>
+    <li><a href="#Future-goals">Future Goals</a></li>
+    <li><a href="#contributors">Contributors</a></li>
+
+  </ol>
+</details>
+
+
 # Design and Aesthetics
 ![image](https://user-images.githubusercontent.com/82662886/134919246-0e4e4ea1-e54d-4bd1-a694-76ac1f0deafe.png)
 
@@ -23,13 +40,13 @@ This is the Home page of the program.
 And these are the additional menus that this application has to offer.
 
 # Features
-1. Secure Login page.
-2. Does all the basic tasks flawlessly.
-3. Offers a search button for searching specific product in Inventory.
-4. Product Name, price and quantity can added.
-5. Very easy to use GUI.
-6. Can also calculate the total sale value of the products.
-7. Has minor features like delete button, refresh button, logout and exit button.
+* Secure Login page.
+* Does all the basic tasks flawlessly.
+* Offers a search button for searching specific product in Inventory.
+* Product Name, price and quantity can added.
+* Very easy to use GUI.
+* Can also calculate the total sale value of the products.
+* Has minor features like delete button, refresh button, logout and exit button.
 
 # Future goals
 This program being made of python language, has high scope as the language is still evolving. Features such as calculator app, signup page, dark mode etc can be added along with better Graphical Aesthetics.
