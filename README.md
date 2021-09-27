@@ -30,3 +30,7 @@ And these are the additional menus that this application has to offer.
 5. Very easy to use GUI.
 6. Can also calculate the total sale value of the products.
 7. Has minor features like delete button, refresh button, logout and exit button.
+
+# Future goals
+This program being made of python language, has high scope as the language is still evolving. Features such as calculator app, signup page, dark mode etc can be added along with better Graphical Aesthetics.
+
